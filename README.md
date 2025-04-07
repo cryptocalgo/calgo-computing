@@ -2,3 +2,5 @@
 test
 commit
 hi
+hi
+auto
