@@ -1,5 +1,5 @@
 # calgo edge computing
-# Edge Computing Technologies Research: MEC, Fog Computing, On-Device Processing, Hybrid Edge-Cloud Architecture
+Edge Computing Technologies Research: MEC, Fog Computing, On-Device Processing, Hybrid Edge-Cloud Architecture
 
 ## 1. Introduction
    - Research Background and Necessity
