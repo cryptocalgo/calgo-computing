@@ -1,3 +1,4 @@
+#research 
 # Edge Computing
 
 Edge computing is a distributed computing paradigm that performs computing and data processing at or near the location where data is generated (the edge), rather than sending all data to centralized data centers or the cloud. By processing at the network's edge, it reduces latency, saves bandwidth, and improves real-time responsiveness.

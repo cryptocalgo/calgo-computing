@@ -1,4 +1,4 @@
-#MEC 
+#MEC #research 
 # MEC (Multi-access Edge Computing) Architecture
 
 MEC is an architecture that provides cloud computing capabilities at the network edge, offering services close to end users unlike traditional centralized cloud computing.
