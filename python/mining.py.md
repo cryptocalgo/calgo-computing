@@ -1,6 +1,5 @@
+#!/usr/bin/env python3
 
-
-```python
 import multiprocessing
 import threading
 
@@ -67,10 +66,7 @@ class MiningManager:
     def get_hash_rate(self):
         """Calculate total hash rate across all mining threads"""
         return sum(miner.get_current_hash_rate() for miner in self.miners)
-```
 
-
-```python
 import multiprocessing
 import threading
 import time
@@ -310,11 +306,7 @@ class MiningManager:
         """Update the block template when new work is available"""
         self.block_template = new_template
         # In a real implementation, you'd need to signal miners to use the new template
-```
 
-## 3. Example Usage
-
-```python
 def main():
     # Example of how to use the mining manager
     manager = MiningManager("bitcoin", target_difficulty=10000)
@@ -344,18 +336,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
 
-This Python implementation provides a complete framework for cryptocurrency mining on mobile devices, with features like:
 
-1. Multi-threaded mining for optimal performance
-2. Resource monitoring to prevent overheating
-3. Support for pausing and resuming mining based on device conditions
-4. Hash rate statistics
-
-For actual deployment on mobile devices, you would need to:
-
-1. Use a mobile Python framework like Kivy or BeeWare
-2. Implement proper network communication with mining pools
-3. Add a user interface for configuration and monitoring
-4. Optimize the code further for mobile CPU architecture
