@@ -1,4 +1,4 @@
-#research 
+#research #mining #crypto
 # Direct Implementation of Cryptocurrency Mining on Mobile Devices
 
 ## 1. Development Environment Setup
