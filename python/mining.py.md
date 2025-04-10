@@ -1,8 +1,4 @@
-# Python Implementation of Cryptocurrency Mining on Mobile Devices
 
-This document contains the Python equivalents of the Kotlin cryptocurrency mining implementation examples.
-
-## 1. Simple Mining Manager Implementation
 
 ```python
 import multiprocessing
@@ -73,7 +69,6 @@ class MiningManager:
         return sum(miner.get_current_hash_rate() for miner in self.miners)
 ```
 
-## 2. More Comprehensive Mining Manager with Resource Monitoring
 
 ```python
 import multiprocessing
