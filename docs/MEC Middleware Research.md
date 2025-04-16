@@ -7,11 +7,8 @@ MEC (Mobile Edge Computing, or Multi-access Edge Computing) middleware is a soft
 ## Key Features
 
 1. **Reduced Latency**: Significantly reduces latency by moving data processing to the network edge closer to users.
-
 2. **Bandwidth Optimization**: Reduces bandwidth usage by processing data locally without needing to transmit all data to the central cloud.
-
 3. **Context Awareness**: Utilizes information such as user location and network status to provide optimized services.
-
 4. **Enhanced Security**: Reduces security risks by processing critical data locally.
 
 ## Main Components
