@@ -6,7 +6,6 @@ Edge computing is a distributed computing paradigm that performs computing and d
 ## Key Features and Benefits
 
 1. **Reduced Latency**: Response time is significantly shortened as data doesn't need to travel back and forth to cloud servers but is processed locally.
-
 2. **Bandwidth Savings**: Network traffic and costs are reduced by transmitting only necessary data to the cloud rather than all data.
 
 3. **Offline Operation**: Critical functions can continue to operate even when internet connectivity is unstable or unavailable.
